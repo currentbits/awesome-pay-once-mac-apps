@@ -4,13 +4,16 @@
 
 Tired of apps draining your wallet every month? These Mac apps respect your purchase — pay once, use forever.
 
-**Rules for inclusion:**
-- One-time purchase only (no required subscription)
-- Actively maintained (updated in the last 12 months)
-- Available for macOS in 2026
-- Apps with optional paid upgrades (e.g. "v5 → v6 upgrade") are fine — you keep what you paid for
+---
 
-Know a great pay-once Mac app? [Submit a PR!](CONTRIBUTING.md) Or [open an issue](../../issues/new) with the app name and link.
+## 📬 Submit Your App
+
+**Built a pay-once Mac app?** We want to list it.
+
+- [Open a PR](CONTRIBUTING.md) — add your app in the right category, alphabetically
+- [Open an issue](../../issues/new?template=submit-app.md&title=Add+%5BApp+Name%5D) — just drop the name, link, and price, we'll add it
+
+**Requirements:** one-time purchase, actively maintained, available on macOS in 2026. That's it.
 
 ---
 
@@ -73,9 +76,11 @@ Pay-once apps:
 
 ---
 
-## Contributing
+## Submit Your App
 
-Found a great pay-once Mac app that's missing? See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add it.
+Built a Mac app with a one-time purchase? **We'd love to list it.**
+
+→ [Submit via PR](CONTRIBUTING.md) or [open an issue](../../issues/new?template=submit-app.md&title=Add+%5BApp+Name%5D)
 
 ## License
 
