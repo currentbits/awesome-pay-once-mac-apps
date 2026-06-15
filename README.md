@@ -31,7 +31,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 
 - [BBEdit](https://www.barebones.com/products/bbedit/) - Professional code and text editor with grep pattern matching and powerful text transformations. $49.99
 - [Fork](https://git-fork.com/) - Fast and friendly Git client with visual diff, merge conflict resolver, and interactive rebase. $49.99
-- [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagrams, QuickLook extension, and syntax highlighting for 190+ languages. $19.99
+- [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagrams, QuickLook extension, and syntax highlighting for all major languages. $19.99
 - [Nova](https://nova.app/) - Native Mac code editor by Panic with built-in terminal, Git, and remote publishing. $99
 - [Proxyman](https://proxyman.com/) - Native macOS HTTP debugging proxy with SSL proxying, request breakpoints, and scripting. $89
 - [Sublime Text](https://www.sublimehq.com/) - Lightning-fast code editor with Goto Anything, multiple selections, and a powerful plugin ecosystem. $99
